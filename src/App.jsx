@@ -23,11 +23,11 @@ const App = () =>
         <Stats />
         <Business />
         <Footer />
-        < Billing />
+        {/* < Billing />
         <CardDeal />
         <Testimonials />
         <Clients />
-        <CTA />
+        <CTA /> */}
       </div>
 
     </div>
